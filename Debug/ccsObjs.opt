@@ -1,0 +1,1 @@
+"./Lab7.obj" "./graphics.obj" "./keypad.obj" "./lcd.obj" "../lnk_msp430fr6989.cmd" -l"libmath.a" -l"libc.a" 
